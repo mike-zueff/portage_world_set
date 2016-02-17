@@ -2,6 +2,7 @@ app-admin/logrotate
 app-admin/sudo
 app-admin/syslog-ng
 app-admin/testdisk
+app-arch/unrar
 app-cdr/k3b
 app-crypt/efitools
 app-crypt/staticgpg
@@ -24,6 +25,7 @@ app-portage/showem
 app-shells/bash-completion
 app-text/calibre
 dev-db/mariadb
+dev-util/android-tools
 dev-util/cgdb
 dev-util/ltrace
 dev-util/strace
@@ -47,6 +49,7 @@ media-sound/paprefs
 media-sound/pasystray
 media-sound/pavucontrol
 media-sound/pavumeter
+media-video/smplayer
 net-analyzer/arp-scan
 net-analyzer/wireshark
 net-im/skype
@@ -64,6 +67,7 @@ sys-apps/smartmontools
 sys-apps/usbutils
 sys-block/gparted
 sys-fs/extundelete
+sys-fs/jmtpfs
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
