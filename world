@@ -5,6 +5,7 @@ app-admin/testdisk
 app-arch/unrar
 app-cdr/k3b
 app-crypt/efitools
+app-crypt/seahorse
 app-crypt/staticgpg
 app-editors/vim
 app-forensics/foremost
