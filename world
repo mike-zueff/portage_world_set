@@ -25,6 +25,7 @@ app-portage/portage-utils
 app-portage/showem
 app-shells/bash-completion
 app-text/calibre
+app-text/goldendict
 dev-db/mariadb
 dev-util/android-tools
 dev-util/cgdb
