@@ -9,6 +9,7 @@ app-crypt/seahorse
 app-crypt/staticgpg
 app-editors/vim
 app-forensics/foremost
+app-misc/colordiff
 app-misc/mc
 app-misc/physlock
 app-misc/screen
@@ -45,6 +46,7 @@ media-fonts/hack
 media-fonts/infinality-ultimate-meta
 media-fonts/terminus-font
 media-gfx/eog
+media-gfx/escrotum
 media-gfx/gimp
 media-sound/alsa-utils
 media-sound/paprefs
