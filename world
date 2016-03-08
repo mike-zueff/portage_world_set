@@ -62,6 +62,7 @@ net-mail/dovecot
 net-misc/socat
 net-misc/telnet-bsd
 sec-policy/apparmor-profiles
+sys-apps/ack
 sys-apps/apparmor-utils
 sys-apps/hwinfo
 sys-apps/lsb-release
