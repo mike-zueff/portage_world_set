@@ -29,7 +29,7 @@ app-shells/bash-completion
 app-text/calibre
 app-text/goldendict
 dev-db/mariadb
-dev-util/android-tools
+dev-util/android-sdk-update-manager
 dev-util/cgdb
 dev-util/ltrace
 dev-util/strace
