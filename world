@@ -101,5 +101,6 @@ x11-misc/xdotool
 x11-misc/xscreensaver
 x11-terms/rxvt-unicode
 x11-themes/light-themes
+x11-themes/tango-icon-theme
 x11-themes/vanilla-dmz-xcursors
 x11-wm/awesome
