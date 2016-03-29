@@ -58,8 +58,10 @@ media-sound/pavumeter
 media-video/smplayer
 net-analyzer/arp-scan
 net-analyzer/wireshark
+net-dns/bind-tools
 net-im/skype
 net-mail/dovecot
+net-misc/networkmanager-openvpn
 net-misc/socat
 net-misc/telnet-bsd
 net-misc/whois
