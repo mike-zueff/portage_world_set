@@ -78,6 +78,7 @@ sys-apps/usbutils
 sys-block/gparted
 sys-fs/extundelete
 sys-fs/jmtpfs
+sys-fs/zfs
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
