@@ -17,6 +17,7 @@ app-misc/screen
 app-misc/screenfetch
 app-misc/tmux
 app-office/libreoffice
+app-office/upwork
 app-portage/cpuinfo2cpuflags
 app-portage/eix
 app-portage/euses
@@ -29,6 +30,7 @@ app-shells/bash-completion
 app-text/calibre
 app-text/goldendict
 dev-db/mariadb
+dev-lang/erlang
 dev-util/android-sdk-update-manager
 dev-util/cgdb
 dev-util/ltrace
@@ -78,6 +80,7 @@ sys-apps/usbutils
 sys-block/gparted
 sys-fs/extundelete
 sys-fs/jmtpfs
+sys-fs/sshfs
 sys-fs/zfs
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
