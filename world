@@ -59,6 +59,7 @@ media-sound/pavucontrol
 media-sound/pavumeter
 media-video/smplayer
 net-analyzer/arp-scan
+net-analyzer/traceroute
 net-analyzer/wireshark
 net-dns/bind-tools
 net-im/skype
@@ -76,6 +77,7 @@ sys-apps/lshw
 sys-apps/pciutils
 sys-apps/portage
 sys-apps/smartmontools
+sys-apps/the_silver_searcher
 sys-apps/usbutils
 sys-block/gparted
 sys-fs/extundelete
