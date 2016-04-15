@@ -33,6 +33,7 @@ dev-db/mariadb
 dev-lang/erlang
 dev-util/android-sdk-update-manager
 dev-util/cgdb
+dev-util/debugedit
 dev-util/ltrace
 dev-util/strace
 dev-util/valgrind
