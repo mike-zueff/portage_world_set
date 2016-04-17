@@ -1,4 +1,5 @@
 app-admin/eclean-kernel
+app-admin/hddtemp
 app-admin/logrotate
 app-admin/sudo
 app-admin/syslog-ng
@@ -73,6 +74,7 @@ sec-policy/apparmor-profiles
 sys-apps/ack
 sys-apps/apparmor-utils
 sys-apps/hwinfo
+sys-apps/lm_sensors
 sys-apps/lsb-release
 sys-apps/lshw
 sys-apps/pciutils
