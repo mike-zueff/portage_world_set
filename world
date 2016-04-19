@@ -73,6 +73,7 @@ net-misc/whois
 sec-policy/apparmor-profiles
 sys-apps/ack
 sys-apps/apparmor-utils
+sys-apps/hdparm
 sys-apps/hwinfo
 sys-apps/lm_sensors
 sys-apps/lsb-release
@@ -85,6 +86,7 @@ sys-apps/usbutils
 sys-block/gparted
 sys-fs/extundelete
 sys-fs/jmtpfs
+sys-fs/ncdu
 sys-fs/sshfs
 sys-fs/zfs
 sys-kernel/buildkernel
