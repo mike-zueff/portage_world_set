@@ -37,6 +37,7 @@ dev-lang/mono
 dev-lang/rust
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
+dev-util/cargo
 dev-util/cgdb
 dev-util/debugedit
 dev-util/ltrace
