@@ -79,6 +79,7 @@ net-misc/whois
 sec-policy/apparmor-profiles
 sys-apps/ack
 sys-apps/apparmor-utils
+sys-apps/fbset
 sys-apps/hdparm
 sys-apps/hwinfo
 sys-apps/lm_sensors
