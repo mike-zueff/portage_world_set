@@ -17,6 +17,7 @@ app-misc/physlock
 app-misc/screen
 app-misc/screenfetch
 app-misc/tmux
+app-office/calligra
 app-office/libreoffice
 app-office/upwork
 app-portage/cpuinfo2cpuflags
