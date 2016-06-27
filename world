@@ -36,7 +36,6 @@ dev-db/mariadb
 dev-lang/erlang
 dev-lang/go
 dev-lang/mono
-dev-lang/rust
 dev-python/flake8
 dev-python/pylint
 dev-tcltk/expect
