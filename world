@@ -50,6 +50,7 @@ dev-util/valgrind
 dev-vcs/bzr
 dev-vcs/git
 dev-vcs/subversion
+dev-vcs/tig
 games-board/pychess
 gnome-base/dconf-editor
 gnome-base/nautilus
