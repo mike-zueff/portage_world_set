@@ -81,6 +81,7 @@ net-misc/networkmanager-openvpn
 net-misc/socat
 net-misc/telnet-bsd
 net-misc/whois
+net-misc/youtube-dl
 sec-policy/apparmor-profiles
 sys-apps/ack
 sys-apps/apparmor-utils
