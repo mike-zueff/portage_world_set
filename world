@@ -97,6 +97,7 @@ sys-apps/smartmontools
 sys-apps/the_silver_searcher
 sys-apps/usbutils
 sys-block/gparted
+sys-fs/ddrescue
 sys-fs/extundelete
 sys-fs/jmtpfs
 sys-fs/ncdu
