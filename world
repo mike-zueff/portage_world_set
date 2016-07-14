@@ -20,7 +20,7 @@ app-misc/tmux
 app-office/calligra
 app-office/libreoffice
 app-office/upwork
-app-portage/cpuinfo2cpuflags
+app-portage/cpuid2cpuflags
 app-portage/eix
 app-portage/euses
 app-portage/genlop
