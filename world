@@ -30,7 +30,6 @@ app-portage/portage-utils
 app-portage/showem
 app-portage/smart-live-rebuild
 app-shells/bash-completion
-app-text/calibre
 app-text/goldendict
 app-text/tidy-html5
 dev-db/mariadb
