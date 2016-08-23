@@ -37,7 +37,9 @@ dev-lang/erlang
 dev-lang/go
 dev-lang/mono
 dev-python/flake8
+dev-python/flask
 dev-python/pylint
+dev-python/requests
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cargo
