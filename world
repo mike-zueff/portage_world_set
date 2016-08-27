@@ -33,6 +33,8 @@ app-shells/bash-completion
 app-text/goldendict
 app-text/tidy-html5
 dev-db/mariadb
+dev-db/mongodb
+dev-db/robomongo
 dev-lang/erlang
 dev-lang/go
 dev-lang/mono
@@ -76,7 +78,9 @@ net-analyzer/arp-scan
 net-analyzer/traceroute
 net-analyzer/wireshark
 net-dns/bind-tools
+net-fs/sshfs
 net-im/skype
+net-im/telegram-desktop-bin
 net-libs/nodejs
 net-mail/dovecot
 net-misc/cloud_foundry_cli
@@ -104,7 +108,6 @@ sys-fs/ddrescue
 sys-fs/extundelete
 sys-fs/jmtpfs
 sys-fs/ncdu
-sys-fs/sshfs
 sys-fs/zfs
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
