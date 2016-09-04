@@ -117,6 +117,7 @@ sys-process/htop
 sys-process/lsof
 www-apps/mediawiki
 www-client/firefox
+www-client/google-chrome
 www-plugins/freshplayerplugin
 www-servers/apache
 www-servers/nginx
