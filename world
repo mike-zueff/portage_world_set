@@ -1,3 +1,4 @@
+app-admin/cloud_foundry_cli
 app-admin/eclean-kernel
 app-admin/hddtemp
 app-admin/logrotate
@@ -83,7 +84,6 @@ net-im/skype
 net-im/telegram-desktop-bin
 net-libs/nodejs
 net-mail/dovecot
-net-misc/cloud_foundry_cli
 net-misc/networkmanager-openvpn
 net-misc/socat
 net-misc/telnet-bsd
