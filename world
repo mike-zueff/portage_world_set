@@ -84,7 +84,7 @@ net-im/skype
 net-im/telegram-desktop-bin
 net-libs/nodejs
 net-mail/dovecot
-net-misc/grive
+net-misc/drive
 net-misc/networkmanager-openvpn
 net-misc/socat
 net-misc/telnet-bsd
