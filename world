@@ -69,6 +69,7 @@ media-fonts/terminus-font
 media-gfx/eog
 media-gfx/escrotum
 media-gfx/gimp
+media-libs/exiftool
 media-sound/alsa-utils
 media-sound/paprefs
 media-sound/pasystray
