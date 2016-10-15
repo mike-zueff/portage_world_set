@@ -11,6 +11,7 @@ app-crypt/efitools
 app-crypt/seahorse
 app-crypt/staticgpg
 app-editors/vim
+app-emulation/vagrant
 app-emulation/winetricks
 app-forensics/foremost
 app-misc/colordiff
