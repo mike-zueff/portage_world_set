@@ -123,6 +123,7 @@ sys-process/lsof
 www-apps/mediawiki
 www-client/firefox
 www-client/google-chrome
+www-plugins/adobe-flash
 www-servers/apache
 www-servers/nginx
 x11-apps/mesa-progs
