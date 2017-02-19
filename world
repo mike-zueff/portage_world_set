@@ -12,6 +12,8 @@ app-crypt/seahorse
 app-crypt/staticgpg
 app-editors/vim
 app-emulation/vagrant
+app-emulation/virtualbox-additions
+app-emulation/virtualbox-extpack-oracle
 app-emulation/winetricks
 app-forensics/foremost
 app-misc/colordiff
@@ -22,7 +24,6 @@ app-misc/screenfetch
 app-misc/tmux
 app-office/calligra
 app-office/libreoffice
-app-office/upwork
 app-portage/cpuid2cpuflags
 app-portage/eix
 app-portage/euses
@@ -47,10 +48,10 @@ dev-python/pylint
 dev-python/requests
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
-dev-util/cargo
 dev-util/cgdb
 dev-util/debugedit
 dev-util/ltrace
+dev-util/rustfmt
 dev-util/shellcheck
 dev-util/strace
 dev-util/valgrind
@@ -124,7 +125,6 @@ www-apps/mediawiki
 www-client/firefox
 www-client/google-chrome
 www-plugins/adobe-flash
-www-servers/apache
 www-servers/nginx
 x11-apps/mesa-progs
 x11-base/xorg-server
@@ -140,6 +140,7 @@ x11-misc/vdpauinfo
 x11-misc/xdotool
 x11-misc/xscreensaver
 x11-terms/rxvt-unicode
+x11-themes/gnome-icon-theme
 x11-themes/gtk-engines-murrine
 x11-themes/gtk-engines-unico
 x11-themes/tango-icon-theme
