@@ -84,7 +84,7 @@ net-analyzer/traceroute
 net-analyzer/wireshark
 net-dns/bind-tools
 net-fs/sshfs
-net-im/skype
+net-im/skypeforlinux
 net-im/telegram-desktop-bin
 net-libs/nodejs
 net-mail/dovecot
