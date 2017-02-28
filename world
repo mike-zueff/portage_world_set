@@ -101,6 +101,7 @@ sys-apps/apparmor-utils
 sys-apps/fbset
 sys-apps/hdparm
 sys-apps/hwinfo
+sys-apps/inxi
 sys-apps/iucode_tool
 sys-apps/lm_sensors
 sys-apps/lsb-release
