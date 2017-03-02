@@ -17,6 +17,7 @@ app-emulation/virtualbox-extpack-oracle
 app-emulation/winetricks
 app-forensics/foremost
 app-misc/colordiff
+app-misc/dtach
 app-misc/mc
 app-misc/physlock
 app-misc/screen
@@ -95,6 +96,7 @@ net-misc/socat
 net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
+net-p2p/deluge
 sec-policy/apparmor-profiles
 sys-apps/ack
 sys-apps/apparmor-utils
