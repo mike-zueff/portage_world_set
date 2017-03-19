@@ -91,13 +91,13 @@ net-im/telegram-desktop-bin
 net-libs/nodejs
 net-mail/dovecot
 net-misc/drive
-net-misc/miredo
 net-misc/networkmanager-openvpn
 net-misc/socat
 net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
+net-vpn/miredo
 sec-policy/apparmor-profiles
 sys-apps/ack
 sys-apps/apparmor-utils
