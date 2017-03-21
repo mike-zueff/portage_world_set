@@ -121,6 +121,7 @@ sys-fs/ext4magic
 sys-fs/extundelete
 sys-fs/jmtpfs
 sys-fs/ncdu
+sys-fs/squashfs-tools
 sys-fs/zfs
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
