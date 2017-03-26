@@ -22,7 +22,6 @@ app-misc/physlock
 app-misc/screen
 app-misc/screenfetch
 app-misc/tmux
-app-office/calligra
 app-office/libreoffice
 app-portage/cpuid2cpuflags
 app-portage/eix
@@ -67,6 +66,7 @@ gnome-extra/gnome-calculator
 gnome-extra/nm-applet
 gnome-extra/zenity
 kde-apps/k3b
+kde-apps/okular
 mail-client/thunderbird
 media-fonts/hack
 media-fonts/infinality-ultimate-meta
@@ -74,6 +74,7 @@ media-fonts/terminus-font
 media-gfx/eog
 media-gfx/escrotum
 media-gfx/gimp
+media-gfx/krita
 media-libs/exiftool
 media-sound/alsa-utils
 media-sound/paprefs
