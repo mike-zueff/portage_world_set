@@ -147,6 +147,7 @@ x11-misc/lightdm-gtk-greeter
 x11-misc/nitrogen
 x11-misc/numlockx
 x11-misc/vdpauinfo
+x11-misc/xclip
 x11-misc/xdotool
 x11-misc/xscreensaver
 x11-terms/rxvt-unicode
