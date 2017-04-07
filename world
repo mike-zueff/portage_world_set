@@ -83,6 +83,7 @@ media-sound/pavucontrol
 media-sound/pavumeter
 media-video/smplayer
 net-analyzer/arp-scan
+net-analyzer/nmap
 net-analyzer/traceroute
 net-analyzer/wireshark
 net-dns/bind-tools
