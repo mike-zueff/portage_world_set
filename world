@@ -46,11 +46,13 @@ dev-python/flake8
 dev-python/flask
 dev-python/pylint
 dev-python/requests
+dev-qt/qtstyleplugins
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cgdb
 dev-util/debugedit
 dev-util/ltrace
+dev-util/nvidia-cuda-sdk
 dev-util/rustfmt
 dev-util/shellcheck
 dev-util/strace
