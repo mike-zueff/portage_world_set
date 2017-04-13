@@ -42,6 +42,7 @@ dev-db/robomongo
 dev-lang/erlang
 dev-lang/go
 dev-lang/mono
+dev-python/3to2
 dev-python/flake8
 dev-python/flask
 dev-python/pylint
