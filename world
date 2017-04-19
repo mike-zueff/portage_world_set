@@ -49,6 +49,7 @@ dev-python/flask
 dev-python/pylint
 dev-python/requests
 dev-qt/qtstyleplugins
+dev-ruby/rhc
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cgdb
