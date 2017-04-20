@@ -2,6 +2,7 @@ app-admin/cloud_foundry_cli
 app-admin/eclean-kernel
 app-admin/hddtemp
 app-admin/logrotate
+app-admin/openshift_origin
 app-admin/pwgen
 app-admin/sudo
 app-admin/syslog-ng
