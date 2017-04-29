@@ -46,9 +46,7 @@ dev-lang/go
 dev-lang/mono
 dev-python/3to2
 dev-python/flake8
-dev-python/flask
 dev-python/pylint
-dev-python/requests
 dev-qt/qtstyleplugins
 dev-ruby/rhc
 dev-tcltk/expect
@@ -99,6 +97,7 @@ net-im/telegram-desktop-bin
 net-libs/nodejs
 net-mail/dovecot
 net-misc/drive
+net-misc/electrum
 net-misc/networkmanager-openvpn
 net-misc/socat
 net-misc/telnet-bsd
