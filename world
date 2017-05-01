@@ -68,7 +68,6 @@ gnome-base/dconf-editor
 gnome-base/nautilus
 gnome-extra/gnome-calculator
 gnome-extra/nm-applet
-gnome-extra/zenity
 kde-apps/k3b
 kde-apps/okular
 mail-client/thunderbird
@@ -129,7 +128,6 @@ sys-fs/extundelete
 sys-fs/jmtpfs
 sys-fs/ncdu
 sys-fs/squashfs-tools
-sys-fs/zfs
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
