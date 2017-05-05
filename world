@@ -46,6 +46,7 @@ dev-lang/go
 dev-lang/mono
 dev-python/3to2
 dev-python/flake8
+dev-python/gnome-keyring-python
 dev-python/pylint
 dev-qt/qtstyleplugins
 dev-ruby/rhc
