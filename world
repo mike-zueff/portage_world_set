@@ -68,6 +68,7 @@ games-board/pychess
 gnome-base/dconf-editor
 gnome-base/nautilus
 gnome-extra/gnome-calculator
+gnome-extra/gnome-color-manager
 gnome-extra/nm-applet
 kde-apps/k3b
 kde-apps/okular
@@ -155,6 +156,7 @@ x11-misc/read-edid
 x11-misc/vdpauinfo
 x11-misc/xclip
 x11-misc/xdotool
+x11-misc/xiccd
 x11-misc/xscreensaver
 x11-terms/rxvt-unicode
 x11-themes/gnome-icon-theme
