@@ -136,6 +136,7 @@ sys-kernel/linux-firmware
 sys-process/cronie
 sys-process/htop
 sys-process/lsof
+virtual/libtinfo
 www-apps/mediawiki
 www-client/firefox
 www-client/google-chrome
