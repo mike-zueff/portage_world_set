@@ -81,12 +81,12 @@ media-gfx/escrotum
 media-gfx/gimp
 media-gfx/krita
 media-gfx/simple-scan
-media-libs/exiftool
 media-sound/alsa-utils
 media-sound/paprefs
 media-sound/pasystray
 media-sound/pavucontrol
 media-sound/pavumeter
+media-video/cheese
 media-video/smplayer
 net-analyzer/arp-scan
 net-analyzer/nmap
@@ -122,6 +122,7 @@ sys-apps/pciutils
 sys-apps/portage
 sys-apps/smartmontools
 sys-apps/the_silver_searcher
+sys-apps/usbtop
 sys-apps/usbutils
 sys-block/gparted
 sys-firmware/intel-microcode
