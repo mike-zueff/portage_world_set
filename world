@@ -11,6 +11,7 @@ app-arch/unrar
 app-crypt/efitools
 app-crypt/seahorse
 app-crypt/staticgpg
+app-dicts/myspell-ru
 app-editors/vim
 app-emulation/vagrant
 app-emulation/virtualbox-additions
