@@ -54,6 +54,7 @@ dev-ruby/rhc
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cgdb
+dev-util/d-feet
 dev-util/debugedit
 dev-util/ltrace
 dev-util/nvidia-cuda-sdk
