@@ -39,6 +39,7 @@ app-portage/smart-live-rebuild
 app-shells/bash-completion
 app-text/goldendict
 app-text/tidy-html5
+dev-ada/gprbuild
 dev-db/mariadb
 dev-db/mongodb
 dev-db/robomongo
@@ -113,6 +114,7 @@ net-vpn/miredo
 sec-policy/apparmor-profiles
 sys-apps/ack
 sys-apps/apparmor-utils
+sys-apps/dmidecode
 sys-apps/fbset
 sys-apps/hdparm
 sys-apps/hwinfo
