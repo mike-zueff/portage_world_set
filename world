@@ -62,6 +62,7 @@ dev-util/nvidia-cuda-sdk
 dev-util/rustfmt
 dev-util/shellcheck
 dev-util/strace
+dev-util/systemtap
 dev-util/valgrind
 dev-vcs/bzr
 dev-vcs/git
