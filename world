@@ -126,6 +126,7 @@ sys-apps/lsb-release
 sys-apps/lshw
 sys-apps/pciutils
 sys-apps/portage
+sys-apps/pv
 sys-apps/smartmontools
 sys-apps/the_silver_searcher
 sys-apps/usbtop
