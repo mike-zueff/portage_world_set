@@ -92,6 +92,7 @@ media-sound/pavumeter
 media-video/cheese
 media-video/smplayer
 net-analyzer/arp-scan
+net-analyzer/netcat
 net-analyzer/nmap
 net-analyzer/tcpdump
 net-analyzer/traceroute
