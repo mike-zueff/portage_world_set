@@ -58,6 +58,7 @@ dev-util/d-feet
 dev-util/debugedit
 dev-util/ltrace
 dev-util/nvidia-cuda-sdk
+dev-util/radare2
 dev-util/rustfmt
 dev-util/shellcheck
 dev-util/strace
@@ -93,6 +94,7 @@ media-video/cheese
 media-video/smplayer
 net-analyzer/arp-scan
 net-analyzer/netcat
+net-analyzer/nethogs
 net-analyzer/nmap
 net-analyzer/tcpdump
 net-analyzer/traceroute
@@ -115,6 +117,7 @@ net-vpn/miredo
 sec-policy/apparmor-profiles
 sys-apps/ack
 sys-apps/apparmor-utils
+sys-apps/coreboot-utils
 sys-apps/dmidecode
 sys-apps/fbset
 sys-apps/hdparm
@@ -132,11 +135,11 @@ sys-apps/the_silver_searcher
 sys-apps/usbtop
 sys-apps/usbutils
 sys-block/gparted
-sys-devel/gcc:5.4.0
 sys-firmware/intel-microcode
 sys-fs/ddrescue
 sys-fs/ext4magic
 sys-fs/extundelete
+sys-fs/inotify-tools
 sys-fs/jmtpfs
 sys-fs/ncdu
 sys-fs/squashfs-tools
