@@ -173,6 +173,7 @@ x11-misc/xclip
 x11-misc/xdotool
 x11-misc/xiccd
 x11-misc/xscreensaver
+x11-plugins/enigmail
 x11-terms/rxvt-unicode
 x11-themes/gnome-icon-theme
 x11-themes/gtk-engines-murrine
