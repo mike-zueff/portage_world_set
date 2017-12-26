@@ -116,7 +116,6 @@ net-misc/youtube-dl
 net-p2p/deluge
 net-vpn/miredo
 sec-policy/apparmor-profiles
-sys-apps/ack
 sys-apps/apparmor-utils
 sys-apps/coreboot-utils
 sys-apps/dmidecode
@@ -131,8 +130,8 @@ sys-apps/lshw
 sys-apps/pciutils
 sys-apps/portage
 sys-apps/pv
+sys-apps/ripgrep
 sys-apps/smartmontools
-sys-apps/the_silver_searcher
 sys-apps/usbtop
 sys-apps/usbutils
 sys-block/gparted
