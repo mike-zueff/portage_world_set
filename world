@@ -26,6 +26,7 @@ app-misc/screen
 app-misc/screenfetch
 app-misc/tmux
 app-office/libreoffice
+app-portage/cargo-ebuild
 app-portage/cpuid2cpuflags
 app-portage/eix
 app-portage/euses
@@ -51,7 +52,6 @@ dev-python/flake8
 dev-python/gnome-keyring-python
 dev-python/pylint
 dev-qt/qtstyleplugins
-dev-ruby/rhc
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cgdb
@@ -63,7 +63,6 @@ dev-util/radare2
 dev-util/rustfmt
 dev-util/shellcheck
 dev-util/strace
-dev-util/systemtap
 dev-util/valgrind
 dev-vcs/bzr
 dev-vcs/git
@@ -92,6 +91,7 @@ media-sound/pasystray
 media-sound/pavucontrol
 media-sound/pavumeter
 media-video/cheese
+media-video/libva-utils
 media-video/smplayer
 net-analyzer/arp-scan
 net-analyzer/netcat
@@ -115,9 +115,11 @@ net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
 net-vpn/miredo
+sci-mathematics/num-utils
 sec-policy/apparmor-profiles
 sys-apps/apparmor-utils
 sys-apps/coreboot-utils
+sys-apps/cpuid
 sys-apps/dmidecode
 sys-apps/fbset
 sys-apps/hdparm
@@ -127,6 +129,7 @@ sys-apps/iucode_tool
 sys-apps/lm_sensors
 sys-apps/lsb-release
 sys-apps/lshw
+sys-apps/moreutils
 sys-apps/pciutils
 sys-apps/portage
 sys-apps/pv
