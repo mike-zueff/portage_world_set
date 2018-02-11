@@ -64,6 +64,7 @@ dev-util/rustfmt
 dev-util/shellcheck
 dev-util/strace
 dev-util/valgrind
+dev-util/vmtouch
 dev-vcs/bzr
 dev-vcs/git
 dev-vcs/subversion
