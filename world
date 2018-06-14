@@ -10,7 +10,6 @@ app-arch/unrar
 app-crypt/efitools
 app-crypt/seahorse
 app-crypt/staticgpg
-app-dicts/myspell-ru
 app-editors/vim
 app-emulation/vagrant
 app-emulation/virtualbox-additions
@@ -40,11 +39,11 @@ app-portage/smart-live-rebuild
 app-shells/bash-completion
 app-text/goldendict
 app-text/tidy-html5
-dev-ada/gprbuild
 dev-db/mariadb
 dev-db/mongodb
 dev-db/robomongo
 dev-lang/erlang
+dev-lang/gnat-gpl
 dev-lang/go
 dev-lang/mono
 dev-python/3to2
@@ -55,6 +54,7 @@ dev-qt/qtstyleplugins
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cgdb
+dev-util/cloc
 dev-util/d-feet
 dev-util/debugedit
 dev-util/ltrace
@@ -122,6 +122,7 @@ sys-apps/apparmor-utils
 sys-apps/coreboot-utils
 sys-apps/cpuid
 sys-apps/dmidecode
+sys-apps/ethtool
 sys-apps/fbset
 sys-apps/hdparm
 sys-apps/hwinfo
@@ -150,6 +151,7 @@ sys-fs/squashfs-tools
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
+sys-power/nut
 sys-process/cronie
 sys-process/htop
 sys-process/lsof
@@ -178,7 +180,6 @@ x11-misc/xiccd
 x11-misc/xscreensaver
 x11-plugins/enigmail
 x11-terms/rxvt-unicode
-x11-themes/gnome-icon-theme
 x11-themes/gtk-engines-murrine
 x11-themes/gtk-engines-unico
 x11-themes/tango-icon-theme
