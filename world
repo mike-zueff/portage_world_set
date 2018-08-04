@@ -1,7 +1,6 @@
 app-admin/eclean-kernel
 app-admin/hddtemp
 app-admin/logrotate
-app-admin/openshift_origin
 app-admin/pwgen
 app-admin/sudo
 app-admin/syslog-ng
@@ -46,6 +45,7 @@ dev-lang/erlang
 dev-lang/gnat-gpl
 dev-lang/go
 dev-lang/mono
+dev-lang/sassc
 dev-python/3to2
 dev-python/flake8
 dev-python/gnome-keyring-python
@@ -59,6 +59,7 @@ dev-util/d-feet
 dev-util/debugedit
 dev-util/ltrace
 dev-util/nvidia-cuda-sdk
+dev-util/patchutils
 dev-util/radare2
 dev-util/rustfmt
 dev-util/shellcheck
@@ -69,7 +70,6 @@ dev-vcs/bzr
 dev-vcs/git
 dev-vcs/subversion
 dev-vcs/tig
-games-board/pychess
 gnome-base/dconf-editor
 gnome-base/nautilus
 gnome-extra/gnome-calculator
@@ -103,12 +103,12 @@ net-analyzer/traceroute
 net-analyzer/wireshark
 net-dns/bind-tools
 net-fs/sshfs
-net-im/skypeforlinux
 net-im/telegram-desktop-bin
 net-libs/nodejs
 net-mail/dovecot
 net-misc/drive
 net-misc/electrum
+net-misc/ipv6calc
 net-misc/networkmanager-openvpn
 net-misc/socat
 net-misc/telnet-bsd
@@ -124,6 +124,7 @@ sys-apps/cpuid
 sys-apps/dmidecode
 sys-apps/ethtool
 sys-apps/fbset
+sys-apps/fwupd
 sys-apps/hdparm
 sys-apps/hwinfo
 sys-apps/inxi
@@ -140,6 +141,7 @@ sys-apps/smartmontools
 sys-apps/usbtop
 sys-apps/usbutils
 sys-block/gparted
+sys-cluster/origin
 sys-firmware/intel-microcode
 sys-fs/ddrescue
 sys-fs/ext4magic
@@ -180,8 +182,4 @@ x11-misc/xiccd
 x11-misc/xscreensaver
 x11-plugins/enigmail
 x11-terms/rxvt-unicode
-x11-themes/gtk-engines-murrine
-x11-themes/gtk-engines-unico
-x11-themes/tango-icon-theme
-x11-themes/vanilla-dmz-xcursors
 x11-wm/awesome
