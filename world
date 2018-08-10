@@ -98,6 +98,7 @@ net-analyzer/arp-scan
 net-analyzer/netcat
 net-analyzer/nethogs
 net-analyzer/nmap
+net-analyzer/speedtest-cli
 net-analyzer/tcpdump
 net-analyzer/traceroute
 net-analyzer/wireshark
@@ -115,7 +116,6 @@ net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
-net-vpn/miredo
 sci-mathematics/num-utils
 sec-policy/apparmor-profiles
 sys-apps/apparmor-utils
