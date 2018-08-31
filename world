@@ -161,7 +161,6 @@ virtual/libtinfo
 www-apps/mediawiki
 www-client/firefox
 www-client/google-chrome
-www-plugins/adobe-flash
 www-servers/nginx
 x11-apps/mesa-progs
 x11-base/xorg-server
