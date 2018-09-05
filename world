@@ -13,7 +13,6 @@ app-editors/vim
 app-emulation/vagrant
 app-emulation/virtualbox-additions
 app-emulation/virtualbox-extpack-oracle
-app-emulation/winetricks
 app-forensics/foremost
 app-misc/colordiff
 app-misc/dtach
@@ -39,11 +38,8 @@ app-shells/bash-completion
 app-text/goldendict
 app-text/tidy-html5
 dev-db/mariadb
-dev-db/mongodb
-dev-db/robomongo
 dev-lang/erlang
 dev-lang/gnat-gpl
-dev-lang/go
 dev-lang/mono
 dev-lang/sassc
 dev-python/3to2
@@ -75,7 +71,6 @@ gnome-base/nautilus
 gnome-extra/gnome-calculator
 gnome-extra/gnome-color-manager
 gnome-extra/nm-applet
-kde-apps/k3b
 kde-apps/okular
 mail-client/thunderbird
 media-fonts/hack
@@ -84,7 +79,6 @@ media-fonts/terminus-font
 media-gfx/eog
 media-gfx/escrotum
 media-gfx/gimp
-media-gfx/krita
 media-gfx/simple-scan
 media-sound/alsa-utils
 media-sound/paprefs
@@ -104,7 +98,6 @@ net-analyzer/traceroute
 net-analyzer/wireshark
 net-dns/bind-tools
 net-fs/sshfs
-net-im/telegram-desktop-bin
 net-libs/nodejs
 net-mail/dovecot
 net-misc/drive
@@ -117,8 +110,6 @@ net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
 sci-mathematics/num-utils
-sec-policy/apparmor-profiles
-sys-apps/apparmor-utils
 sys-apps/coreboot-utils
 sys-apps/cpuid
 sys-apps/dmidecode
