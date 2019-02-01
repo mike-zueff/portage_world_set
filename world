@@ -51,12 +51,12 @@ dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cgdb
 dev-util/cloc
+dev-util/cutter
 dev-util/d-feet
 dev-util/debugedit
 dev-util/ltrace
 dev-util/nvidia-cuda-sdk
 dev-util/patchutils
-dev-util/radare2
 dev-util/rustfmt
 dev-util/shellcheck
 dev-util/strace
@@ -75,6 +75,7 @@ kde-apps/okular
 mail-client/thunderbird
 media-fonts/hack
 media-fonts/infinality-ultimate-meta
+media-fonts/libertine
 media-fonts/terminus-font
 media-gfx/eog
 media-gfx/escrotum
@@ -104,6 +105,7 @@ net-misc/drive
 net-misc/electrum
 net-misc/ipv6calc
 net-misc/networkmanager-openvpn
+net-misc/sipcalc
 net-misc/socat
 net-misc/telnet-bsd
 net-misc/whois
@@ -131,6 +133,7 @@ sys-apps/ripgrep
 sys-apps/smartmontools
 sys-apps/usbtop
 sys-apps/usbutils
+sys-auth/oath-toolkit
 sys-block/gparted
 sys-cluster/origin
 sys-firmware/intel-microcode
@@ -157,7 +160,6 @@ x11-apps/mesa-progs
 x11-base/xorg-server
 x11-base/xorg-x11
 x11-drivers/nvidia-drivers
-x11-libs/gksu
 x11-misc/compton
 x11-misc/dex
 x11-misc/lightdm-gtk-greeter
