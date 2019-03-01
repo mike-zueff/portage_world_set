@@ -3,7 +3,6 @@ app-admin/hddtemp
 app-admin/logrotate
 app-admin/pwgen
 app-admin/sudo
-app-admin/syslog-ng
 app-admin/testdisk
 app-arch/unrar
 app-crypt/efitools
@@ -44,7 +43,6 @@ dev-lang/mono
 dev-lang/sassc
 dev-python/3to2
 dev-python/flake8
-dev-python/gnome-keyring-python
 dev-python/pylint
 dev-qt/qtstyleplugins
 dev-tcltk/expect
@@ -104,13 +102,13 @@ net-mail/dovecot
 net-misc/drive
 net-misc/electrum
 net-misc/ipv6calc
-net-misc/networkmanager-openvpn
 net-misc/sipcalc
 net-misc/socat
 net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
+net-vpn/networkmanager-openvpn
 sci-mathematics/num-utils
 sys-apps/coreboot-utils
 sys-apps/cpuid
@@ -149,6 +147,7 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-power/nut
 sys-process/cronie
+sys-process/glances
 sys-process/htop
 sys-process/lsof
 virtual/libtinfo
