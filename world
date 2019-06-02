@@ -49,6 +49,7 @@ dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cgdb
 dev-util/cloc
+dev-util/ctags
 dev-util/cutter
 dev-util/d-feet
 dev-util/debugedit
@@ -68,7 +69,6 @@ gnome-base/dconf-editor
 gnome-base/nautilus
 gnome-extra/gnome-calculator
 gnome-extra/gnome-color-manager
-gnome-extra/nm-applet
 kde-apps/okular
 mail-client/thunderbird
 media-fonts/hack
@@ -78,10 +78,10 @@ media-fonts/terminus-font
 media-gfx/eog
 media-gfx/escrotum
 media-gfx/gimp
+media-gfx/inkscape
 media-gfx/simple-scan
 media-sound/alsa-utils
 media-sound/paprefs
-media-sound/pasystray
 media-sound/pavucontrol
 media-sound/pavumeter
 media-video/cheese
@@ -101,6 +101,7 @@ net-libs/nodejs
 net-mail/dovecot
 net-misc/drive
 net-misc/electrum
+net-misc/geoipupdate
 net-misc/ipv6calc
 net-misc/sipcalc
 net-misc/socat
@@ -108,7 +109,7 @@ net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
-net-vpn/networkmanager-openvpn
+net-vpn/openvpn
 sci-mathematics/num-utils
 sys-apps/coreboot-utils
 sys-apps/cpuid
