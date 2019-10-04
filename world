@@ -103,6 +103,7 @@ net-misc/drive
 net-misc/electrum
 net-misc/geoipupdate
 net-misc/ipv6calc
+net-misc/nextcloud-client
 net-misc/sipcalc
 net-misc/socat
 net-misc/telnet-bsd
@@ -153,6 +154,7 @@ sys-process/htop
 sys-process/lsof
 virtual/libtinfo
 www-apps/mediawiki
+www-apps/nextcloud
 www-client/firefox
 www-client/google-chrome
 www-servers/nginx
