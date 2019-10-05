@@ -54,7 +54,7 @@ dev-util/cutter
 dev-util/d-feet
 dev-util/debugedit
 dev-util/ltrace
-dev-util/nvidia-cuda-sdk
+dev-util/nvidia-cuda-toolkit
 dev-util/patchutils
 dev-util/rustfmt
 dev-util/shellcheck
@@ -152,7 +152,6 @@ sys-process/cronie
 sys-process/glances
 sys-process/htop
 sys-process/lsof
-virtual/libtinfo
 www-apps/mediawiki
 www-apps/nextcloud
 www-client/firefox
