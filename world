@@ -22,7 +22,6 @@ app-misc/screen
 app-misc/screenfetch
 app-misc/tmux
 app-office/libreoffice
-app-portage/cargo-ebuild
 app-portage/cpuid2cpuflags
 app-portage/eix
 app-portage/euses
@@ -56,7 +55,6 @@ dev-util/debugedit
 dev-util/ltrace
 dev-util/nvidia-cuda-toolkit
 dev-util/patchutils
-dev-util/rustfmt
 dev-util/shellcheck
 dev-util/strace
 dev-util/valgrind
