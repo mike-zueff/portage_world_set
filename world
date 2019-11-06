@@ -35,10 +35,12 @@ app-shells/bash-completion
 app-text/goldendict
 app-text/tidy-html5
 dev-db/mariadb
+dev-db/sqlitebrowser
 dev-lang/erlang
 dev-lang/gnat-gpl
 dev-lang/mono
 dev-lang/sassc
+dev-php/composer
 dev-python/3to2
 dev-python/flake8
 dev-python/pylint
