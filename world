@@ -77,9 +77,9 @@ media-fonts/infinality-ultimate-meta
 media-fonts/libertine
 media-fonts/terminus-font
 media-gfx/eog
-media-gfx/escrotum
 media-gfx/gimp
 media-gfx/inkscape
+media-gfx/scrot
 media-gfx/simple-scan
 media-sound/alsa-utils
 media-sound/paprefs
