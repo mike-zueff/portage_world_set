@@ -12,6 +12,7 @@ app-emulation/vagrant
 app-emulation/virtualbox-additions
 app-emulation/virtualbox-extpack-oracle
 app-forensics/foremost
+app-misc/binwalk
 app-misc/colordiff
 app-misc/dtach
 app-misc/mc
