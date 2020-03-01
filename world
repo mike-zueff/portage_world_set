@@ -15,6 +15,7 @@ app-forensics/foremost
 app-misc/binwalk
 app-misc/colordiff
 app-misc/dtach
+app-misc/fdupes
 app-misc/mc
 app-misc/neofetch
 app-misc/physlock
@@ -61,7 +62,6 @@ dev-util/shellcheck
 dev-util/strace
 dev-util/valgrind
 dev-util/vmtouch
-dev-vcs/bzr
 dev-vcs/git
 dev-vcs/subversion
 dev-vcs/tig
@@ -148,6 +148,7 @@ sys-kernel/buildkernel
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-power/nut
+sys-process/atop
 sys-process/cronie
 sys-process/glances
 sys-process/htop
