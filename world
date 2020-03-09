@@ -55,6 +55,7 @@ dev-util/ctags
 dev-util/cutter
 dev-util/d-feet
 dev-util/debugedit
+dev-util/dwarves
 dev-util/ltrace
 dev-util/nvidia-cuda-toolkit
 dev-util/patchutils
