@@ -4,10 +4,12 @@ app-admin/pwgen
 app-admin/sudo
 app-admin/testdisk
 app-arch/unrar
+app-arch/upx
 app-crypt/efitools
 app-crypt/seahorse
 app-crypt/staticgpg
 app-editors/vim
+app-emulation/docker
 app-emulation/vagrant
 app-emulation/virtualbox-additions
 app-emulation/virtualbox-extpack-oracle
@@ -112,7 +114,9 @@ net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
+net-proxy/torsocks
 net-vpn/openvpn
+net-vpn/tor
 sci-mathematics/num-utils
 sys-apps/coreboot-utils
 sys-apps/cpuid
