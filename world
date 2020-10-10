@@ -7,6 +7,7 @@ app-arch/p7zip
 app-arch/unrar
 app-arch/upx
 app-crypt/efitools
+app-crypt/johntheripper
 app-crypt/seahorse
 app-crypt/staticgpg
 app-editors/vim
@@ -46,11 +47,13 @@ dev-db/sqlitebrowser
 dev-lang/erlang
 dev-lang/gnat-gpl
 dev-lang/mono
+dev-lang/python:2.7
 dev-lang/sassc
 dev-php/composer
 dev-python/3to2
 dev-python/flake8
 dev-python/pylint
+dev-python/virtualenv
 dev-qt/qtstyleplugins
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
@@ -113,11 +116,14 @@ net-misc/ipv6calc
 net-misc/nextcloud-client
 net-misc/sipcalc
 net-misc/socat
+net-misc/sshpass
 net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
+net-proxy/torsocks
 net-vpn/openvpn
+net-vpn/tor
 sci-mathematics/num-utils
 sys-apps/coreboot-utils
 sys-apps/cpuid
@@ -164,7 +170,7 @@ sys-process/usbtop
 www-apps/mediawiki
 www-apps/nextcloud
 www-client/firefox
-www-client/google-chrome
+www-client/google-chrome-unstable
 www-servers/nginx
 x11-apps/mesa-progs
 x11-base/xorg-server
@@ -182,6 +188,5 @@ x11-misc/xclip
 x11-misc/xdotool
 x11-misc/xiccd
 x11-misc/xscreensaver
-x11-plugins/enigmail
 x11-terms/rxvt-unicode
 x11-wm/awesome
