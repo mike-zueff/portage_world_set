@@ -75,7 +75,6 @@ dev-vcs/git
 dev-vcs/subversion
 dev-vcs/tig
 gnome-base/dconf-editor
-gnome-base/libgnome-keyring
 gnome-base/nautilus
 gnome-extra/gnome-calculator
 gnome-extra/gnome-color-manager
@@ -107,6 +106,7 @@ net-analyzer/traceroute
 net-analyzer/wireshark
 net-dns/bind-tools
 net-fs/sshfs
+net-ftp/filezilla
 net-libs/nodejs
 net-mail/dovecot
 net-misc/drive
