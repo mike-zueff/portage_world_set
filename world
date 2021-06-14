@@ -3,6 +3,7 @@ app-admin/logrotate
 app-admin/pwgen
 app-admin/sudo
 app-admin/testdisk
+app-arch/deb2targz
 app-arch/p7zip
 app-arch/unrar
 app-arch/upx
@@ -52,6 +53,7 @@ dev-lang/sassc
 dev-php/composer
 dev-python/3to2
 dev-python/flake8
+dev-python/pip
 dev-python/pylint
 dev-python/virtualenv
 dev-qt/qtstyleplugins
@@ -63,9 +65,9 @@ dev-util/ctags
 dev-util/cutter
 dev-util/d-feet
 dev-util/debugedit
-dev-util/dwarves
 dev-util/ltrace
 dev-util/nvidia-cuda-toolkit
+dev-util/pahole
 dev-util/patchutils
 dev-util/shellcheck
 dev-util/strace
@@ -78,10 +80,11 @@ gnome-base/dconf-editor
 gnome-base/nautilus
 gnome-extra/gnome-calculator
 gnome-extra/gnome-color-manager
+gui-libs/gdk-pixbuf-loader-webp
 kde-apps/okular
 mail-client/thunderbird
+media-fonts/fonts-meta
 media-fonts/hack
-media-fonts/infinality-ultimate-meta
 media-fonts/libertine
 media-fonts/terminus-font
 media-gfx/eog
@@ -121,6 +124,7 @@ net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
 net-p2p/deluge
+net-proxy/squid
 net-proxy/torsocks
 net-vpn/openvpn
 net-vpn/tor
@@ -176,7 +180,6 @@ x11-apps/mesa-progs
 x11-base/xorg-server
 x11-base/xorg-x11
 x11-drivers/nvidia-drivers
-x11-libs/gdk-pixbuf-loader-webp
 x11-misc/compton
 x11-misc/dex
 x11-misc/lightdm-gtk-greeter
