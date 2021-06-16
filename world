@@ -48,7 +48,6 @@ dev-db/sqlitebrowser
 dev-lang/erlang
 dev-lang/gnat-gpl
 dev-lang/mono
-dev-lang/python:2.7
 dev-lang/sassc
 dev-php/composer
 dev-python/3to2
@@ -154,10 +153,12 @@ sys-block/gparted
 sys-cluster/origin
 sys-firmware/intel-microcode
 sys-fs/ddrescue
+sys-fs/dosfstools
 sys-fs/ext4magic
 sys-fs/extundelete
 sys-fs/inotify-tools
 sys-fs/jmtpfs
+sys-fs/mtools
 sys-fs/ncdu
 sys-fs/squashfs-tools
 sys-kernel/buildkernel
