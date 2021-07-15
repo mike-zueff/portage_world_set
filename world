@@ -109,6 +109,7 @@ net-analyzer/wireshark
 net-dns/bind-tools
 net-fs/sshfs
 net-ftp/filezilla
+net-im/telegram-desktop
 net-libs/nodejs
 net-mail/dovecot
 net-misc/drive
@@ -187,6 +188,7 @@ x11-misc/lightdm-gtk-greeter
 x11-misc/nitrogen
 x11-misc/numlockx
 x11-misc/read-edid
+x11-misc/redshift
 x11-misc/vdpauinfo
 x11-misc/xclip
 x11-misc/xdotool
