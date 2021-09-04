@@ -98,6 +98,7 @@ media-sound/pavucontrol
 media-sound/pavumeter
 media-video/cheese
 media-video/libva-utils
+media-video/shotcut
 media-video/smplayer
 net-analyzer/arp-scan
 net-analyzer/netcat
@@ -124,6 +125,7 @@ net-misc/sshpass
 net-misc/telnet-bsd
 net-misc/whois
 net-misc/youtube-dl
+net-misc/yt-dlp
 net-p2p/deluge
 net-proxy/squid
 net-proxy/torsocks
