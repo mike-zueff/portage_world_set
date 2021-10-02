@@ -38,6 +38,7 @@ app-portage/genlop
 app-portage/gentoolkit
 app-portage/genup
 app-portage/portage-utils
+app-portage/recover-broken-vdb
 app-portage/repoman
 app-portage/showem
 app-portage/smart-live-rebuild
@@ -132,6 +133,7 @@ net-proxy/torsocks
 net-vpn/openvpn
 net-vpn/tor
 sci-mathematics/num-utils
+sys-apps/busybox
 sys-apps/coreboot-utils
 sys-apps/cpuid
 sys-apps/dmidecode
