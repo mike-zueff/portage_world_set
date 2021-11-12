@@ -44,7 +44,7 @@ app-portage/showem
 app-portage/smart-live-rebuild
 app-shells/bash-completion
 app-text/goldendict
-app-text/tidy-html5
+app-text/htmltidy
 dev-db/mariadb
 dev-db/sqlitebrowser
 dev-lang/erlang
@@ -125,7 +125,6 @@ net-misc/socat
 net-misc/sshpass
 net-misc/telnet-bsd
 net-misc/whois
-net-misc/youtube-dl
 net-misc/yt-dlp
 net-p2p/deluge
 net-proxy/squid
@@ -187,11 +186,11 @@ x11-apps/mesa-progs
 x11-base/xorg-server
 x11-base/xorg-x11
 x11-drivers/nvidia-drivers
-x11-misc/compton
 x11-misc/dex
 x11-misc/lightdm-gtk-greeter
 x11-misc/nitrogen
 x11-misc/numlockx
+x11-misc/picom
 x11-misc/read-edid
 x11-misc/redshift
 x11-misc/vdpauinfo
