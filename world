@@ -7,13 +7,13 @@ app-arch/deb2targz
 app-arch/p7zip
 app-arch/unrar
 app-arch/upx
+app-containers/docker
+app-containers/docker-compose
 app-crypt/efitools
 app-crypt/johntheripper
 app-crypt/seahorse
 app-crypt/staticgpg
 app-editors/vim
-app-emulation/docker
-app-emulation/docker-compose
 app-emulation/vagrant
 app-emulation/virtualbox-additions
 app-emulation/virtualbox-extpack-oracle
