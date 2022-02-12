@@ -166,6 +166,7 @@ sys-fs/jmtpfs
 sys-fs/mtools
 sys-fs/ncdu
 sys-fs/squashfs-tools
+sys-fs/zfs-auto-snapshot
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
