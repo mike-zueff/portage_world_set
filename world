@@ -131,6 +131,7 @@ net-proxy/squid
 net-proxy/torsocks
 net-vpn/openvpn
 net-vpn/tor
+net-wireless/wireless-regdb
 sci-mathematics/num-utils
 sys-apps/busybox
 sys-apps/coreboot-utils
@@ -176,6 +177,7 @@ sys-process/atop
 sys-process/cronie
 sys-process/glances
 sys-process/htop
+sys-process/iotop-c
 sys-process/lsof
 sys-process/usbtop
 www-apps/mediawiki
