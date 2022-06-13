@@ -52,7 +52,6 @@ dev-lang/gnat-gpl
 dev-lang/mono
 dev-lang/sassc
 dev-php/composer
-dev-python/3to2
 dev-python/flake8
 dev-python/pip
 dev-python/pylint
@@ -93,19 +92,21 @@ media-gfx/gimp
 media-gfx/inkscape
 media-gfx/scrot
 media-gfx/simple-scan
+media-libs/mutagen
 media-sound/alsa-utils
 media-sound/paprefs
 media-sound/pavucontrol
 media-sound/pavumeter
 media-video/cheese
 media-video/libva-utils
+media-video/pipewire
 media-video/shotcut
 media-video/smplayer
 net-analyzer/arp-scan
 net-analyzer/netcat
 net-analyzer/nethogs
 net-analyzer/nmap
-net-analyzer/speedtest-cli
+net-analyzer/speedtest++
 net-analyzer/tcpdump
 net-analyzer/traceroute
 net-analyzer/wireshark
@@ -113,6 +114,7 @@ net-dns/bind-tools
 net-fs/sshfs
 net-ftp/filezilla
 net-im/telegram-desktop
+net-libs/libotr
 net-libs/nodejs
 net-mail/dovecot
 net-misc/drive
@@ -180,6 +182,7 @@ sys-process/htop
 sys-process/iotop-c
 sys-process/lsof
 sys-process/usbtop
+virtual/jdk:11
 www-apps/mediawiki
 www-apps/nextcloud
 www-client/firefox
