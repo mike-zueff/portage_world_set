@@ -52,10 +52,16 @@ dev-lang/gnat-gpl
 dev-lang/mono
 dev-lang/sassc
 dev-php/composer
+dev-python/docker-py
 dev-python/flake8
+dev-python/netifaces
 dev-python/pip
+dev-python/pygal
 dev-python/pylint
+dev-python/pymdstat
+dev-python/pysnmp
 dev-python/virtualenv
+dev-python/zeroconf
 dev-qt/qtstyleplugins
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
@@ -94,7 +100,6 @@ media-gfx/scrot
 media-gfx/simple-scan
 media-libs/mutagen
 media-sound/alsa-utils
-media-sound/paprefs
 media-sound/pavucontrol
 media-sound/pavumeter
 media-video/cheese
