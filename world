@@ -39,7 +39,6 @@ app-portage/gentoolkit
 app-portage/genup
 app-portage/portage-utils
 app-portage/recover-broken-vdb
-app-portage/repoman
 app-portage/showem
 app-portage/smart-live-rebuild
 app-shells/bash-completion
@@ -197,6 +196,7 @@ x11-apps/mesa-progs
 x11-base/xorg-server
 x11-base/xorg-x11
 x11-drivers/nvidia-drivers
+x11-libs/libva-vdpau-driver
 x11-misc/dex
 x11-misc/lightdm-gtk-greeter
 x11-misc/nitrogen
