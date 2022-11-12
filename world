@@ -11,7 +11,7 @@ app-arch/upx
 app-containers/docker
 app-containers/docker-compose
 app-crypt/efitools
-app-crypt/johntheripper
+app-crypt/johntheripper-jumbo
 app-crypt/seahorse
 app-crypt/staticgpg
 app-editors/vim
@@ -61,8 +61,8 @@ dev-python/pygal
 dev-python/pylint
 dev-python/pymdstat
 dev-python/pysnmp
+dev-python/python-zeroconf
 dev-python/virtualenv
-dev-python/zeroconf
 dev-qt/qtstyleplugins
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
