@@ -68,6 +68,7 @@ dev-tcltk/expect
 dev-util/android-sdk-update-manager
 dev-util/cgdb
 dev-util/cloc
+dev-util/cscope
 dev-util/ctags
 dev-util/cutter
 dev-util/d-feet
@@ -143,6 +144,7 @@ media-video/pipewire
 media-video/shotcut
 media-video/smplayer
 net-analyzer/arp-scan
+net-analyzer/mtr
 net-analyzer/netcat
 net-analyzer/nethogs
 net-analyzer/nmap
@@ -152,6 +154,7 @@ net-analyzer/traceroute
 net-analyzer/wireshark
 net-dns/bind-tools
 net-fs/sshfs
+net-ftp/atftp
 net-ftp/filezilla
 net-im/telegram-desktop
 net-im/zoom
