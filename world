@@ -1,3 +1,4 @@
+app-admin/coreboot-utils
 app-admin/hddtemp
 app-admin/logrotate
 app-admin/pwgen
@@ -166,6 +167,7 @@ net-misc/electrum
 net-misc/geoipupdate
 net-misc/ipv6calc
 net-misc/nextcloud-client
+net-misc/remmina
 net-misc/sipcalc
 net-misc/socat
 net-misc/sshpass
@@ -173,6 +175,7 @@ net-misc/telnet-bsd
 net-misc/whois
 net-misc/yt-dlp
 net-p2p/deluge
+net-p2p/feather
 net-proxy/squid
 net-proxy/torsocks
 net-vpn/openvpn
@@ -180,7 +183,6 @@ net-vpn/tor
 net-wireless/wireless-regdb
 sci-mathematics/num-utils
 sys-apps/busybox
-sys-apps/coreboot-utils
 sys-apps/cpuid
 sys-apps/dmidecode
 sys-apps/ethtool
