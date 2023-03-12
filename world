@@ -10,6 +10,7 @@ app-arch/p7zip
 app-arch/unrar
 app-arch/upx
 app-containers/docker
+app-containers/docker-cli
 app-containers/docker-compose
 app-crypt/efitools
 app-crypt/johntheripper-jumbo
@@ -62,8 +63,8 @@ dev-python/pygal
 dev-python/pylint
 dev-python/pymdstat
 dev-python/pysnmp
-dev-python/python-zeroconf
 dev-python/virtualenv
+dev-python/zeroconf
 dev-qt/qtstyleplugins
 dev-tcltk/expect
 dev-util/android-sdk-update-manager
@@ -135,6 +136,7 @@ media-gfx/inkscape
 media-gfx/scrot
 media-gfx/simple-scan
 media-libs/mutagen
+media-plugins/alsa-plugins
 media-sound/alsa-utils
 media-sound/audacity
 media-sound/pavucontrol
@@ -142,9 +144,11 @@ media-sound/pavumeter
 media-video/cheese
 media-video/libva-utils
 media-video/pipewire
+media-video/recordmydesktop
 media-video/shotcut
 media-video/smplayer
 net-analyzer/arp-scan
+net-analyzer/macchanger
 net-analyzer/mtr
 net-analyzer/netcat
 net-analyzer/nethogs
@@ -161,6 +165,7 @@ net-im/telegram-desktop
 net-im/zoom
 net-libs/libotr
 net-libs/nodejs
+net-libs/webkit-gtk:4
 net-mail/dovecot
 net-misc/drive
 net-misc/electrum
@@ -205,6 +210,7 @@ sys-apps/ripgrep
 sys-apps/smartmontools
 sys-apps/usbutils
 sys-auth/oath-toolkit
+sys-auth/rtkit
 sys-block/gparted
 sys-cluster/origin
 sys-firmware/intel-microcode
@@ -250,7 +256,6 @@ x11-apps/xcursorgen
 x11-apps/xdpyinfo
 x11-apps/xdriinfo
 x11-apps/xev
-x11-apps/xf86dga
 x11-apps/xgamma
 x11-apps/xhost
 x11-apps/xinput
