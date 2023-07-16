@@ -22,6 +22,7 @@ app-emulation/virtualbox-additions
 app-emulation/virtualbox-extpack-oracle
 app-eselect/eselect-python
 app-forensics/foremost
+app-misc/beep
 app-misc/binwalk
 app-misc/colordiff
 app-misc/dtach
