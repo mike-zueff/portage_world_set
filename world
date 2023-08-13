@@ -167,6 +167,8 @@ net-im/zoom
 net-libs/libotr
 net-libs/nodejs
 net-libs/webkit-gtk:4
+net-libs/webkit-gtk:4.1
+net-libs/webkit-gtk:6
 net-mail/dovecot
 net-misc/drive
 net-misc/electrum
@@ -240,7 +242,9 @@ sys-process/htop
 sys-process/iotop-c
 sys-process/lsof
 sys-process/usbtop
+virtual/jdk:1.8
 virtual/jdk:11
+virtual/jdk:17
 www-apps/mediawiki
 www-apps/nextcloud
 www-client/firefox
