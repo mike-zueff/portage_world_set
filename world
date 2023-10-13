@@ -145,6 +145,8 @@ media-sound/pavucontrol
 media-sound/pavumeter
 media-video/cheese
 media-video/libva-utils
+media-video/mplayer
+media-video/mpv
 media-video/pipewire
 media-video/recordmydesktop
 media-video/shotcut
@@ -167,9 +169,6 @@ net-im/telegram-desktop
 net-im/zoom
 net-libs/libotr
 net-libs/nodejs
-net-libs/webkit-gtk:4
-net-libs/webkit-gtk:4.1
-net-libs/webkit-gtk:6
 net-mail/dovecot
 net-misc/drive
 net-misc/electrum
@@ -214,6 +213,7 @@ sys-apps/pv
 sys-apps/ripgrep
 sys-apps/smartmontools
 sys-apps/usbutils
+sys-apps/xdg-desktop-portal-gnome
 sys-auth/oath-toolkit
 sys-auth/rtkit
 sys-block/gparted
