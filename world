@@ -82,6 +82,7 @@ dev-util/ltrace
 dev-util/nvidia-cuda-toolkit
 dev-util/pahole
 dev-util/patchutils
+dev-util/pkgdev
 dev-util/shellcheck
 dev-util/strace
 dev-util/valgrind
@@ -170,9 +171,10 @@ net-im/zoom
 net-libs/libotr
 net-libs/nodejs
 net-mail/dovecot
-net-misc/drive
+net-misc/bridge-utils
 net-misc/electrum
 net-misc/geoipupdate
+net-misc/grive
 net-misc/ipv6calc
 net-misc/nextcloud-client
 net-misc/remmina
@@ -213,7 +215,8 @@ sys-apps/pv
 sys-apps/ripgrep
 sys-apps/smartmontools
 sys-apps/usbutils
-sys-apps/xdg-desktop-portal-gnome
+sys-apps/usermode-utilities
+sys-apps/xdg-desktop-portal-gtk
 sys-auth/oath-toolkit
 sys-auth/rtkit
 sys-block/gparted
@@ -232,6 +235,7 @@ sys-fs/zfs-auto-snapshot
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
+sys-libs/libsmbios
 sys-power/acpid
 sys-power/nut
 sys-process/atop
@@ -246,6 +250,7 @@ sys-process/usbtop
 virtual/jdk:1.8
 virtual/jdk:11
 virtual/jdk:17
+virtual/jdk:21
 www-apps/mediawiki
 www-apps/nextcloud
 www-client/firefox
@@ -254,6 +259,7 @@ www-servers/nginx
 x11-apps/bitmap
 x11-apps/luit
 x11-apps/mesa-progs
+x11-apps/rgb
 x11-apps/sessreg
 x11-apps/setxkbmap
 x11-apps/smproxy
@@ -289,6 +295,7 @@ x11-misc/numlockx
 x11-misc/picom
 x11-misc/read-edid
 x11-misc/redshift
+x11-misc/util-macros
 x11-misc/vdpauinfo
 x11-misc/xclip
 x11-misc/xdotool
