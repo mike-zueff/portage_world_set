@@ -187,6 +187,7 @@ net-misc/whois
 net-misc/yt-dlp
 net-p2p/deluge
 net-p2p/feather
+net-print/cups-meta
 net-proxy/squid
 net-proxy/torsocks
 net-vpn/openvpn
