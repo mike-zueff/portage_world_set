@@ -188,6 +188,7 @@ net-misc/yt-dlp
 net-p2p/deluge
 net-p2p/feather
 net-print/cups-meta
+net-proxy/3proxy
 net-proxy/squid
 net-proxy/torsocks
 net-vpn/openvpn
@@ -236,6 +237,7 @@ sys-fs/squashfs-tools
 sys-fs/zfs-auto-snapshot
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
+sys-kernel/installkernel
 sys-kernel/linux-firmware
 sys-libs/libsmbios
 sys-power/acpid
