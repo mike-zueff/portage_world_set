@@ -55,7 +55,7 @@ app-text/htmltidy
 dev-db/mariadb
 dev-db/sqlitebrowser
 dev-debug/cgdb
-dev-debug/d-feet
+dev-debug/d-spy
 dev-debug/ltrace
 dev-debug/strace
 dev-debug/valgrind
