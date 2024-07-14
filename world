@@ -72,6 +72,7 @@ dev-python/pygal
 dev-python/pylint
 dev-python/pymdstat
 dev-python/pysnmp
+dev-python/secretstorage
 dev-python/virtualenv
 dev-python/zeroconf
 dev-qt/qtstyleplugins
@@ -259,6 +260,7 @@ www-apps/mediawiki
 www-apps/nextcloud
 www-client/firefox
 www-client/google-chrome-unstable
+www-plugins/chrome-binary-plugins
 www-servers/nginx
 x11-apps/bitmap
 x11-apps/luit
