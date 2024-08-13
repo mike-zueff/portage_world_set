@@ -50,7 +50,7 @@ app-portage/recover-broken-vdb
 app-portage/showem
 app-portage/smart-live-rebuild
 app-shells/bash-completion
-app-text/goldendict
+app-text/goldendict-ng
 app-text/htmltidy
 dev-db/mariadb
 dev-db/sqlitebrowser
@@ -61,6 +61,7 @@ dev-debug/strace
 dev-debug/valgrind
 dev-lang/erlang
 dev-lang/gnat-gpl
+dev-lang/gnucobol
 dev-lang/mono
 dev-lang/sassc
 dev-php/composer
@@ -190,7 +191,6 @@ net-p2p/deluge
 net-p2p/feather
 net-print/cups-meta
 net-proxy/3proxy
-net-proxy/squid
 net-proxy/torsocks
 net-vpn/openvpn
 net-vpn/tor
@@ -228,6 +228,7 @@ sys-cluster/origin
 sys-firmware/intel-microcode
 sys-fs/ddrescue
 sys-fs/dosfstools
+sys-fs/duf
 sys-fs/ext4magic
 sys-fs/extundelete
 sys-fs/inotify-tools
