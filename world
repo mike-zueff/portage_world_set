@@ -311,5 +311,6 @@ x11-misc/xscreensaver
 x11-misc/xvfb-run
 x11-misc/ydotool
 x11-terms/rxvt-unicode
+x11-themes/qt6gtk2
 x11-themes/xcursor-themes
 x11-wm/awesome
