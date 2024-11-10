@@ -88,6 +88,7 @@ dev-util/nvidia-cuda-toolkit
 dev-util/pahole
 dev-util/patchutils
 dev-util/pkgdev
+dev-util/quilt
 dev-util/shellcheck
 dev-util/vmtouch
 dev-vcs/git
@@ -141,6 +142,7 @@ media-gfx/gimp
 media-gfx/inkscape
 media-gfx/scrot
 media-gfx/simple-scan
+media-libs/exiftool
 media-libs/mutagen
 media-plugins/alsa-plugins
 media-sound/alsa-utils
@@ -203,6 +205,7 @@ sys-apps/dmidecode
 sys-apps/ethtool
 sys-apps/fbset
 sys-apps/fwupd
+sys-apps/gsmartcontrol
 sys-apps/hdparm
 sys-apps/hwinfo
 sys-apps/inxi
