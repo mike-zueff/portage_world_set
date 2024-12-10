@@ -78,7 +78,8 @@ dev-python/virtualenv
 dev-python/zeroconf
 dev-qt/qtstyleplugins
 dev-tcltk/expect
-dev-util/android-sdk-update-manager
+dev-util/android-sdk-cmdline-tools
+dev-util/android-tools
 dev-util/cloc
 dev-util/cscope
 dev-util/ctags
@@ -145,10 +146,13 @@ media-gfx/simple-scan
 media-libs/exiftool
 media-libs/mutagen
 media-plugins/alsa-plugins
+media-plugins/gst-plugins-dash
+media-plugins/gst-plugins-hls
 media-sound/alsa-utils
 media-sound/audacity
 media-sound/pavucontrol
 media-sound/pavumeter
+media-sound/pulseaudio
 media-video/cheese
 media-video/libva-utils
 media-video/mplayer
