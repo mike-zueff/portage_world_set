@@ -8,6 +8,7 @@ app-admin/sysstat
 app-admin/testdisk
 app-arch/deb2targz
 app-arch/p7zip
+app-arch/rar
 app-arch/unrar
 app-arch/upx
 app-containers/docker
@@ -60,8 +61,8 @@ dev-debug/d-spy
 dev-debug/ltrace
 dev-debug/strace
 dev-debug/valgrind
+dev-lang/ada-bootstrap
 dev-lang/erlang
-dev-lang/gnat-gpl
 dev-lang/gnucobol
 dev-lang/mono
 dev-lang/sassc
@@ -158,7 +159,6 @@ media-video/libva-utils
 media-video/mplayer
 media-video/mpv
 media-video/pipewire
-media-video/recordmydesktop
 media-video/shotcut
 media-video/smplayer
 net-analyzer/arp-scan
