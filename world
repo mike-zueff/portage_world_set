@@ -259,6 +259,7 @@ sys-process/glances
 sys-process/htop
 sys-process/iotop-c
 sys-process/lsof
+sys-process/nvtop
 sys-process/usbtop
 virtual/jdk:1.8
 virtual/jdk:11
