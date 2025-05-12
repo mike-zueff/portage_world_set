@@ -1,5 +1,6 @@
 app-accessibility/speech-dispatcher
 app-admin/coreboot-utils
+app-admin/doas
 app-admin/hddtemp
 app-admin/logrotate
 app-admin/pwgen
@@ -40,6 +41,7 @@ app-misc/rdfind
 app-misc/screen
 app-misc/screenfetch
 app-misc/tmux
+app-misc/wayland-utils
 app-office/libreoffice
 app-portage/cpuid2cpuflags
 app-portage/eix
@@ -54,6 +56,7 @@ app-portage/smart-live-rebuild
 app-shells/bash-completion
 app-text/goldendict-ng
 app-text/htmltidy
+app-text/tree
 dev-db/mariadb
 dev-db/sqlitebrowser
 dev-debug/cgdb
@@ -93,6 +96,8 @@ dev-util/pkgdev
 dev-util/quilt
 dev-util/shellcheck
 dev-util/vmtouch
+dev-util/vulkan-tools
+dev-util/wasm3
 dev-vcs/git
 dev-vcs/subversion
 dev-vcs/tig
@@ -213,6 +218,7 @@ sys-apps/gsmartcontrol
 sys-apps/hdparm
 sys-apps/hwinfo
 sys-apps/inxi
+sys-apps/ipmitool
 sys-apps/iucode_tool
 sys-apps/lm-sensors
 sys-apps/lsb-release
@@ -248,6 +254,7 @@ sys-kernel/buildkernel
 sys-kernel/gentoo-sources
 sys-kernel/installkernel
 sys-kernel/linux-firmware
+sys-libs/freeipmi
 sys-libs/libsmbios
 sys-power/acpid
 sys-power/nut
@@ -312,6 +319,8 @@ x11-misc/read-edid
 x11-misc/redshift
 x11-misc/util-macros
 x11-misc/vdpauinfo
+x11-misc/wmctrl
+x11-misc/wmname
 x11-misc/xclip
 x11-misc/xdotool
 x11-misc/xiccd
