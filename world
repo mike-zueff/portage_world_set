@@ -10,6 +10,7 @@ app-admin/testdisk
 app-arch/deb2targz
 app-arch/p7zip
 app-arch/rar
+app-arch/sasquatch
 app-arch/unrar
 app-arch/upx
 app-containers/docker
@@ -54,6 +55,7 @@ app-portage/recover-broken-vdb
 app-portage/showem
 app-portage/smart-live-rebuild
 app-shells/bash-completion
+app-text/djview
 app-text/goldendict-ng
 app-text/htmltidy
 app-text/tree
@@ -84,6 +86,7 @@ dev-python/zeroconf
 dev-tcltk/expect
 dev-util/android-sdk-cmdline-tools
 dev-util/android-tools
+dev-util/bpftool
 dev-util/cloc
 dev-util/cscope
 dev-util/ctags
@@ -105,6 +108,7 @@ gnome-base/dconf-editor
 gnome-base/nautilus
 gnome-extra/gnome-calculator
 gnome-extra/gnome-color-manager
+gui-apps/qt6ct
 gui-libs/gdk-pixbuf-loader-webp
 kde-apps/okular
 mail-client/thunderbird
@@ -151,9 +155,11 @@ media-gfx/scrot
 media-gfx/simple-scan
 media-libs/exiftool
 media-libs/mutagen
+media-libs/nvidia-vaapi-driver
 media-plugins/alsa-plugins
 media-plugins/gst-plugins-dash
 media-plugins/gst-plugins-hls
+media-plugins/gst-plugins-vaapi
 media-sound/alsa-utils
 media-sound/audacity
 media-sound/pavucontrol
@@ -180,10 +186,12 @@ net-dns/bind-tools
 net-fs/sshfs
 net-ftp/atftp
 net-ftp/filezilla
-net-im/telegram-desktop
+net-im/telegram-desktop-bin
 net-im/zoom
 net-libs/libotr
 net-libs/nodejs
+net-libs/webkit-gtk:4.1
+net-libs/webkit-gtk:6
 net-mail/dovecot
 net-misc/bridge-utils
 net-misc/chrony
@@ -239,6 +247,7 @@ sys-auth/oath-toolkit
 sys-auth/rtkit
 sys-block/gparted
 sys-cluster/origin
+sys-devel/bpf-toolchain
 sys-firmware/intel-microcode
 sys-fs/ddrescue
 sys-fs/dosfstools
@@ -249,7 +258,6 @@ sys-fs/inotify-tools
 sys-fs/jmtpfs
 sys-fs/mtools
 sys-fs/ncdu
-sys-fs/squashfs-tools
 sys-fs/zfs-auto-snapshot
 sys-kernel/buildkernel
 sys-kernel/gentoo-sources
@@ -316,6 +324,7 @@ x11-misc/makedepend
 x11-misc/nitrogen
 x11-misc/numlockx
 x11-misc/picom
+x11-misc/qt5ct
 x11-misc/read-edid
 x11-misc/redshift
 x11-misc/util-macros
