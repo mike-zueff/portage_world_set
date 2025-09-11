@@ -55,7 +55,6 @@ app-portage/recover-broken-vdb
 app-portage/showem
 app-portage/smart-live-rebuild
 app-shells/bash-completion
-app-text/djview
 app-text/goldendict-ng
 app-text/htmltidy
 app-text/tree
@@ -67,6 +66,7 @@ dev-debug/ltrace
 dev-debug/strace
 dev-debug/valgrind
 dev-lang/ada-bootstrap
+dev-lang/elixir
 dev-lang/erlang
 dev-lang/gnucobol
 dev-lang/mono
@@ -83,6 +83,7 @@ dev-python/pysnmp
 dev-python/secretstorage
 dev-python/virtualenv
 dev-python/zeroconf
+dev-qt/qtx11extras
 dev-tcltk/expect
 dev-util/android-sdk-cmdline-tools
 dev-util/android-tools
@@ -164,7 +165,6 @@ media-sound/alsa-utils
 media-sound/audacity
 media-sound/pavucontrol
 media-sound/pavumeter
-media-sound/pulseaudio
 media-video/cheese
 media-video/libva-utils
 media-video/mplayer
@@ -211,6 +211,7 @@ net-p2p/deluge
 net-p2p/feather
 net-print/cups-meta
 net-proxy/3proxy
+net-proxy/lyrebird
 net-proxy/torsocks
 net-vpn/openvpn
 net-vpn/tor
@@ -239,6 +240,7 @@ sys-apps/pciutils
 sys-apps/portage
 sys-apps/pv
 sys-apps/ripgrep
+sys-apps/rootlesskit
 sys-apps/smartmontools
 sys-apps/usbutils
 sys-apps/usermode-utilities
