@@ -57,6 +57,7 @@ app-portage/smart-live-rebuild
 app-shells/bash-completion
 app-text/goldendict-ng
 app-text/htmltidy
+app-text/papers
 app-text/tree
 dev-db/mariadb
 dev-db/sqlitebrowser
@@ -74,6 +75,7 @@ dev-lang/sassc
 dev-php/composer
 dev-python/docker
 dev-python/flake8
+dev-python/lz4
 dev-python/netifaces
 dev-python/pip
 dev-python/pygal
@@ -150,12 +152,14 @@ media-fonts/hack
 media-fonts/libertine
 media-fonts/terminus-font
 media-gfx/eog
+media-gfx/fbida
 media-gfx/gimp
 media-gfx/inkscape
 media-gfx/scrot
 media-gfx/simple-scan
 media-libs/exiftool
 media-libs/mutagen
+media-libs/netpbm
 media-libs/nvidia-vaapi-driver
 media-plugins/alsa-plugins
 media-plugins/gst-plugins-dash
@@ -178,7 +182,8 @@ net-analyzer/mtr
 net-analyzer/netcat
 net-analyzer/nethogs
 net-analyzer/nmap
-net-analyzer/speedtest++
+net-analyzer/ookla-speedtest
+net-analyzer/speedtest-cli
 net-analyzer/tcpdump
 net-analyzer/traceroute
 net-analyzer/wireshark
@@ -196,8 +201,9 @@ net-mail/dovecot
 net-misc/bridge-utils
 net-misc/chrony
 net-misc/electrum
+net-misc/gdrive
 net-misc/geoipupdate
-net-misc/grive
+net-misc/ipcalc
 net-misc/ipv6calc
 net-misc/nextcloud-client
 net-misc/remmina
@@ -283,6 +289,7 @@ virtual/jdk:1.8
 virtual/jdk:11
 virtual/jdk:17
 virtual/jdk:21
+virtual/jdk:25
 www-apps/mediawiki
 www-apps/nextcloud
 www-client/firefox
