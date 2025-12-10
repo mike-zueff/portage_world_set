@@ -238,6 +238,7 @@ sys-apps/dmidecode
 sys-apps/ethtool
 sys-apps/fbset
 sys-apps/fwupd
+sys-apps/gnome-disk-utility
 sys-apps/gsmartcontrol
 sys-apps/hdparm
 sys-apps/hwinfo
