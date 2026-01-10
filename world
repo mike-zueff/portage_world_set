@@ -56,6 +56,7 @@ app-portage/recover-broken-vdb
 app-portage/showem
 app-portage/smart-live-rebuild
 app-shells/bash-completion
+app-text/foliate
 app-text/goldendict-ng
 app-text/htmltidy
 app-text/papers
@@ -111,6 +112,7 @@ dev-util/vmtouch
 dev-util/vulkan-tools
 dev-util/wasm3
 dev-vcs/git
+dev-vcs/git-cola
 dev-vcs/subversion
 dev-vcs/tig
 gnome-base/dconf-editor
