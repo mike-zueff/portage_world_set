@@ -271,8 +271,10 @@ sys-firmware/intel-microcode
 sys-fs/ddrescue
 sys-fs/dosfstools
 sys-fs/duf
+sys-fs/exfatprogs
 sys-fs/ext4magic
 sys-fs/extundelete
+sys-fs/fuse-exfat
 sys-fs/inotify-tools
 sys-fs/jmtpfs
 sys-fs/mtools
@@ -361,3 +363,4 @@ x11-terms/rxvt-unicode
 x11-themes/qt6gtk2
 x11-themes/xcursor-themes
 x11-wm/awesome
+x11-wm/xpra
