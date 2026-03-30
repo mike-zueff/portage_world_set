@@ -8,8 +8,8 @@ app-admin/sudo
 app-admin/sysstat
 app-admin/testdisk
 app-alternatives/lzip
+app-arch/7zip
 app-arch/deb2targz
-app-arch/p7zip
 app-arch/rar
 app-arch/sasquatch
 app-arch/unrar
@@ -126,6 +126,7 @@ kde-apps/k3b
 kde-apps/okular
 kde-plasma/polkit-kde-agent
 mail-client/thunderbird
+media-fonts/adwaita-fonts
 media-fonts/font-adobe-100dpi
 media-fonts/font-adobe-75dpi
 media-fonts/font-adobe-utopia-100dpi
@@ -159,6 +160,7 @@ media-fonts/font-sun-misc
 media-fonts/font-winitzki-cyrillic
 media-fonts/font-xfree86-type1
 media-fonts/fonts-meta
+media-fonts/freefonts
 media-fonts/hack
 media-fonts/libertine
 media-fonts/terminus-font
@@ -180,7 +182,9 @@ media-sound/alsa-utils
 media-sound/audacity
 media-sound/pavucontrol
 media-sound/pavumeter
+media-video/bluray_info
 media-video/cheese
+media-video/dvd_info
 media-video/libva-utils
 media-video/mplayer
 media-video/mpv
@@ -343,6 +347,7 @@ x11-apps/xsetroot
 x11-apps/xvinfo
 x11-apps/xwd
 x11-apps/xwud
+x11-base/xorg-fonts
 x11-base/xorg-server
 x11-drivers/nvidia-drivers
 x11-misc/dex
