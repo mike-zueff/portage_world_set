@@ -31,6 +31,7 @@ app-forensics/foremost
 app-misc/beep
 app-misc/binwalk
 app-misc/colordiff
+app-misc/ddcui
 app-misc/dtach
 app-misc/fastfetch
 app-misc/fdupes
