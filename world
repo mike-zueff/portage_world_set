@@ -46,6 +46,7 @@ app-misc/screen
 app-misc/screenfetch
 app-misc/tmux
 app-misc/wayland-utils
+app-mobilephone/heimdall
 app-office/libreoffice
 app-portage/cpuid2cpuflags
 app-portage/eix
@@ -98,7 +99,6 @@ dev-qt/qtx11extras
 dev-tcltk/expect
 dev-util/android-sdk-cmdline-tools
 dev-util/android-tools
-dev-util/bpftool
 dev-util/cloc
 dev-util/cscope
 dev-util/ctags
@@ -282,7 +282,6 @@ sys-auth/oath-toolkit
 sys-auth/rtkit
 sys-block/gparted
 sys-cluster/origin
-sys-devel/bpf-toolchain
 sys-devel/dwz
 sys-firmware/intel-microcode
 sys-fs/ddrescue
