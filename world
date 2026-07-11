@@ -251,6 +251,7 @@ sys-apps/cpuid
 sys-apps/dmidecode
 sys-apps/ethtool
 sys-apps/fbset
+sys-apps/flashrom
 sys-apps/flatpak
 sys-apps/fwupd
 sys-apps/gnome-disk-utility
@@ -279,6 +280,7 @@ sys-apps/xdg-desktop-portal-gtk
 sys-auth/oath-toolkit
 sys-auth/rtkit
 sys-block/gparted
+sys-boot/mokutil
 sys-cluster/origin
 sys-devel/dwz
 sys-firmware/intel-microcode
