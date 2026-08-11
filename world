@@ -99,6 +99,7 @@ dev-util/cscope
 dev-util/ctags
 dev-util/cutter
 dev-util/debugedit
+dev-util/mingw64-toolchain
 dev-util/nvidia-cuda-toolkit
 dev-util/pahole
 dev-util/patchutils
@@ -164,6 +165,7 @@ media-fonts/terminus-font
 media-gfx/eog
 media-gfx/fbida
 media-gfx/gimp
+media-gfx/icoutils
 media-gfx/inkscape
 media-gfx/scrot
 media-gfx/simple-scan
