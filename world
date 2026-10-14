@@ -10,6 +10,7 @@ app-admin/testdisk
 app-alternatives/lzip
 app-arch/7zip
 app-arch/deb2targz
+app-arch/libzim
 app-arch/rar
 app-arch/sasquatch
 app-arch/unrar
@@ -235,6 +236,7 @@ net-misc/sipcalc
 net-misc/socat
 net-misc/sshpass
 net-misc/telnet-bsd
+net-misc/wget2
 net-misc/whois
 net-misc/yt-dlp
 net-p2p/deluge
@@ -322,6 +324,7 @@ virtual/jdk:11
 virtual/jdk:17
 virtual/jdk:21
 virtual/jdk:25
+virtual/jdk:27
 www-apps/mediawiki
 www-apps/nextcloud
 www-client/firefox
